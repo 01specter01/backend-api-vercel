@@ -1,5 +1,4 @@
-// Add Express
-const express = require("express");
+import express from "express";
 
 // Initialize Express
 const app = express();
