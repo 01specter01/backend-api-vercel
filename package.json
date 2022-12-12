@@ -1,0 +1,23 @@
+{
+  "name": "backend-api-vercel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/01specter01/backend-api-vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/01specter01/backend-api-vercel/issues"
+  },
+  "homepage": "https://github.com/01specter01/backend-api-vercel#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
